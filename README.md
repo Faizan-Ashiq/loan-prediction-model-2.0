@@ -162,3 +162,10 @@ Deploy as a Flask/Django API for real-time predictions
 Build an interactive Streamlit dashboard for non-technical users
 
 Integrate Explainable AI (XAI) for transparent loan decision-making
+
+
+## Author
+#Muhammad Faizan
+📧 Email: faizanwahla899@gmail.com
+🌐 GitHub: https://github.com/Faizan-Ashiq
+
